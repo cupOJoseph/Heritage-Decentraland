@@ -1,0 +1,23 @@
+{
+  "name": "heritage-dcl",
+  "version": "0.0.2",
+  "description": "A typescript package for using Heritage smart contracts in Decentraland.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jschiarizzi/Heritage-Decentraland.git"
+  },
+  "keywords": [
+    "decentraland",
+    "ethereum"
+  ],
+  "author": "Airbus A-3, Heritage group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jschiarizzi/Heritage-Decentraland/issues"
+  },
+  "homepage": "https://github.com/jschiarizzi/Heritage-Decentraland#readme"
+}
